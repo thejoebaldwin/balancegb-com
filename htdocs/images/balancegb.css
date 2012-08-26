@@ -1,0 +1,302 @@
+body
+{
+	background-color:#c2d4f3;
+	padding:0px;
+	margin:0px;
+	position:relative;
+	min-width:1024px;
+}
+
+#drAndyPhoto
+{
+	background: url("../images/balancegb/Andy2knees480.png");
+	height:460px;
+	background-repeat:no-repeat;
+	width:214px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#homeHeader
+{
+	background-image:url("../images/balancegb/grey_tall.png");
+	background-repeat:repeat-x;
+	height:99px;
+	position:absolute;
+	top:300px;
+    width:100%;
+	z-index:1;
+	text-align:center;
+}
+
+#homeHeader table
+{
+ margin-left:auto;
+ margin-right:auto;
+}
+
+#homeHeader td
+{
+	 white-space:nowrap;
+}
+
+#homeHeader a, #subLinks a
+{
+	 text-decoration:none;
+	 color:black;
+}
+
+#mainHeader a:hover, #subLinks a:hover
+{
+	text-decoration:underline;
+}
+
+#headerFooter
+{
+	background-image:url("../images/balancegb/grey_short.png");
+	background-repeat:repeat-x;
+	position:absolute;
+	top:425px;
+	height:30px;
+	width:100%;
+	z-index:1;	
+}
+
+#topNavigation
+{
+	background-image:url("../images/balancegb/blue_bar.png");
+	background-repeat:repeat-x;
+	position:absolute;
+	top:465px;
+	height:30px;
+	width:100%;
+	z-index:1;
+	font-family:Tahoma;
+	color:white;
+	font-weight:bold;
+}
+
+#topNavigation table
+{
+	margin-left:auto;
+	margin-right:auto;
+	width:600px;
+}
+
+
+#topNavigation table td
+{
+	width:100px;
+	text-align:center;
+	vertical-align:middle;
+	padding-top:4px;
+}
+
+.homeHeaderCenter
+{
+	width:214px;
+    white-space:nowrap;
+}
+
+.homeHeaderLeft
+{
+	text-align:right;
+}
+
+.homeHeaderRight
+{
+	text-align:left;
+}
+
+.homeHeaderLeft, .homeHeaderRight
+{
+	font-family:sans-serif;
+	font-weight:bold;
+	font-size:80%;
+}
+
+.homeHeaderColumnHead 
+{
+	color:#5B8BDB;
+    font-family:sans-serif;
+    font-weight:bold;
+    font-size:100%;
+    width:250px;
+}
+
+#header
+{
+	background-color:#F5FAFA;
+	text-align:center;
+	width:100%;
+}
+
+#fadeLogo
+{
+	background-image:url("../images/balancegb/fade_logo.png");
+	position:absolute;
+	top:330px;
+	width:319px;
+	height:370px;
+	right:0px;
+}
+
+#titleLogo
+{
+	/*background-image:url("../images/balancegb/balance_title.png");*/
+	position:absolute;
+	top:0px;
+	width:313px;
+    height:92px;
+    top:40px;
+	left:40px;
+}
+
+#titleLogo img
+{
+	border:none;
+}
+
+#subLinks
+{
+	color:black;
+	width:700px;
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	margin-top:60px;
+	font-family:Tahoma;
+	font-size:90%;
+}
+
+#subLinks span
+{
+	margin-left:20px;
+	margin-right:20px;
+}
+
+#copyright
+{
+	margin-left:auto;
+	margin-right:auto;
+	font-family:Tahoma;
+	font-size:70%;
+	text-align:center;
+	margin-top:80px;
+}
+
+#topNavigation a
+{
+	text-decoration:none;
+	color:white;
+}
+
+/* CONTENT PAGES */
+
+.contentPage 
+{
+	background-color:#F5FAFA;
+	padding:0;
+}
+
+.contentPage #headerFooter
+{
+	top:80px;
+}
+
+.contentPage #topNavigation
+{
+	top:125px;
+}
+
+.contentPage #header
+{
+	background:none;
+}
+
+.contentPage #titleLogo
+{
+    top:0px;
+}
+
+.contentPage #fadeLogo
+{
+	top:-120px;
+}
+
+.contentPage #lifebalance
+{
+	position:absolute;
+	width:100%;
+	text-align:center;
+	top:45px;
+}
+
+.contentPage #back_blue
+{
+	background-image:url("../images/balancegb/rect3925.png");
+	background-repeat:repeat-x;
+	position:absolute;
+	width:100%;
+	top:110px;
+	height:160px;
+	z-index:0;
+}
+
+.contentPage #mainContent
+{
+	background-image:url("../images/balancegb/grey_back.png");
+	background-repeat:repeat;
+	width:90%;
+	margin-left:auto;
+	margin-right:auto;
+    font-family:Tahoma;
+    padding:10px;
+    border:1px solid #dadada;
+    text-align:left;
+    font-size:95%;
+    color:#444444;
+}
+
+.contentPage #mainContentWrapper
+{
+	text-align:center;
+    position:absolute;	
+    top:170px;
+  	z-index:2;
+   	width:100%;
+}
+
+.contentPage .links
+{
+	 list-style:none;
+}
+
+.contentPage .links li
+{
+	padding-top:2px;
+	padding-bottom:2px;
+}
+
+.contentPage .links a
+{
+	 text-decoration:none;
+	 color:black;
+	 font-size:90%;
+}
+
+.contentPage .links a:hover
+{
+   text-decoration:underline;
+}
+
+.contentPage #leftNavigation
+{
+	width:200px;
+	padding-top:30px;
+}
+
+.fan_box .page_stream
+{
+height:1000px;	
+}
