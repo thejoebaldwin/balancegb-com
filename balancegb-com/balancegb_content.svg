@@ -1,0 +1,627 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1375.2858"
+   height="1255.2858"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   sodipodi:docname="balancegb_content.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   version="1.0"
+   inkscape:export-filename="C:\Projects\balancegb_2.png"
+   inkscape:export-xdpi="44.75172"
+   inkscape:export-ydpi="44.75172">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+    <inkscape:perspective
+       id="perspective2481"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2531"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2598"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3426"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3476"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3529"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3599"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3649"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3885"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3990"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4045"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4059"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4109"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="1214.3801"
+     inkscape:cy="330.18517"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer4"
+     showgrid="false"
+     inkscape:window-width="1276"
+     inkscape:window-height="962"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="background"
+     transform="translate(334.78571,259.56638)">
+    <rect
+       style="opacity:1;fill:#f5fafa;fill-opacity:1;stroke:none;stroke-width:1.40490162;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3839"
+       width="2213.8806"
+       height="1411.0237"
+       x="-739.79761"
+       y="375.42178"
+       inkscape:export-filename="C:\Projects\BGB_CONTENT.PNG"
+       inkscape:export-xdpi="44.75172"
+       inkscape:export-ydpi="44.75172" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer8"
+     inkscape:label="ANDY"
+     sodipodi:insensitive="true" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline"
+     transform="translate(334.78571,259.56638)"
+     sodipodi:insensitive="true">
+    <rect
+       style="opacity:1;fill:#c2d4f3;fill-opacity:1;stroke:#c2d4f3;stroke-width:2.10520196;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3376"
+       width="2219.0896"
+       height="410.84424"
+       x="-738.61487"
+       y="583.24298" />
+    <rect
+       style="opacity:1;fill:#817b8f;fill-opacity:1;stroke:#c2d4f3;stroke-width:2.17929077;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3380"
+       width="2241.7917"
+       height="43.494755"
+       x="-738.24176"
+       y="603.94769" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3672"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"><flowRegion
+         id="flowRegion3674"><rect
+           id="rect3676"
+           width="67.14286"
+           height="117.14286"
+           x="-137.14285"
+           y="429.50504" /></flowRegion><flowPara
+         id="flowPara3678" /></flowRoot>  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer7"
+     inkscape:label="FADE_LOGO"
+     transform="translate(334.78571,259.56638)">
+    <image
+       y="-647.92358"
+       x="1139"
+       id="image4061"
+       height="369.14285"
+       width="459.14282"
+       sodipodi:absref="C:\Projects\pastedpic_09062010_225802.png"
+       xlink:href="pastedpic_09062010_225802.png"
+       style="opacity:0.54867255" />
+    <image
+       y="222.20724"
+       x="926.93738"
+       id="image4111"
+       height="633.57141"
+       width="642.14288"
+       sodipodi:absref="C:\Users\htg\Documents\Expression\Blend 3\Projects\BalanceGB\bgb_logo.png"
+       xlink:href="C:\Users\htg\Documents\Expression\Blend 3\Projects\BalanceGB\bgb_logo.png"
+       style="opacity:0.46902651"
+       inkscape:export-xdpi="44.75172"
+       inkscape:export-ydpi="44.75172" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer9"
+     inkscape:label="textback"
+     style="opacity:0.63194442"
+     sodipodi:insensitive="true">
+    <rect
+       style="opacity:1;fill:#eaebeb;fill-opacity:1;stroke:#999999;stroke-width:2.07053399;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:8;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect2524"
+       width="2088.4592"
+       height="962.74487"
+       x="-341.37244"
+       y="952.4848" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer10"
+     inkscape:label="contnetn"
+     sodipodi:insensitive="true">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3315"
+       style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#303030;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Tahoma;-inkscape-font-specification:Tahoma"
+       transform="translate(-183.65388,-115.34013)"><flowRegion
+         id="flowRegion3317"><rect
+           id="rect3319"
+           width="1478.8633"
+           height="1220.2643"
+           x="351.53308"
+           y="1150.2299"
+           style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#303030;fill-opacity:1;font-family:Tahoma;-inkscape-font-specification:Tahoma" /></flowRegion><flowPara
+         id="flowPara3321">Life is all about balance. Work and play. Business and family. Rest and exercise. Not too much and not too little. It's especially true with your body. At Balance Chiropractic of Green Bay our goal is to help you achieve balance of your spine and nervous system. This symmetry helps your body communicate, function and move at its optimum.</flowPara><flowPara
+         id="flowPara3323" /><flowPara
+         id="flowPara3325">Dr. Andrew Kiefert, CEO of Balance Chiropractic, believes that every patient should be treated as an individual and cared for like they are a part of his family. Care is specialized to fit each patient with careful consideration in helping you meet your unique health care goals. Dr. Andy cares for patients of all ages and has certification in caring for pregnant women.</flowPara><flowPara
+         id="flowPara3327" /><flowPara
+         id="flowPara3329">Balance Chiropractic is located within The CLINIC at Fitnessology. Here, personalized Chiropractic is combined with world class personal training, neuromuscular therapy and massage therapy. We expect and achieve the highest results.</flowPara></flowRoot>  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="gray"
+     transform="translate(334.78571,259.56638)">
+    <rect
+       style="opacity:0.76106196;fill:#e6e6e6;fill-opacity:1;stroke:#dadada;stroke-width:2.60553122;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+       id="rect2604"
+       width="2236.9819"
+       height="200.68893"
+       x="-741.84753"
+       y="2480.4397" />
+    <rect
+       style="opacity:0.76106196;fill:#e6e6e6;fill-opacity:1;stroke:#dadada;stroke-width:0.88228267;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+       id="rect3706"
+       width="2245.2317"
+       height="22.927013"
+       x="-745.85858"
+       y="556.69043" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="links"
+     transform="translate(334.78571,259.56638)">
+    <text
+       xml:space="preserve"
+       style="font-size:93.25258636px;font-style:normal;font-weight:normal;line-height:125%;fill:#5b8bdb;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Bitstream Vera Sans"
+       x="68.821434"
+       y="524.39349"
+       id="text3656"
+       sodipodi:linespacing="125%"
+       transform="scale(1.0602174,0.9432028)"><tspan
+         sodipodi:role="line"
+         id="tspan3658"
+         x="68.821434"
+         y="524.39349"
+         style="font-size:40.55495453px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#5b8bdb;fill-opacity:1;font-family:Century Gothic;-inkscape-font-specification:Century Gothic">LIFE IS ALL ABOUT BALANCE</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Tahoma;-inkscape-font-specification:Tahoma"
+       x="-116.04214"
+       y="263.30612"
+       id="text3660"
+       sodipodi:linespacing="125%"
+       transform="scale(1.2745902,0.7845659)"><tspan
+         sodipodi:role="line"
+         id="tspan3662"
+         x="-116.04214"
+         y="263.30612" /><tspan
+         sodipodi:role="line"
+         x="-116.04214"
+         y="293.30612"
+         id="tspan3664"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Tahoma;-inkscape-font-specification:Tahoma">schedule an appointment </tspan><tspan
+         sodipodi:role="line"
+         x="-116.04214"
+         y="323.30612"
+         id="tspan3668"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Tahoma;-inkscape-font-specification:Tahoma" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Tahoma;-inkscape-font-specification:Tahoma"
+       x="61.442467"
+       y="2185.1621"
+       id="text4211"
+       sodipodi:linespacing="125%"
+       transform="scale(1.2745902,0.7845659)"><tspan
+         sodipodi:role="line"
+         id="tspan4213"
+         x="61.442467"
+         y="2185.1621" /><tspan
+         sodipodi:role="line"
+         x="61.442467"
+         y="2210.1621"
+         id="tspan4215"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Tahoma;-inkscape-font-specification:Tahoma">2010 Balance Chiropractice of Green Bay. All Rights Reserved</tspan><tspan
+         sodipodi:role="line"
+         x="61.442467"
+         y="2235.1621"
+         id="tspan4217"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Tahoma;-inkscape-font-specification:Tahoma" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:102.39604187px;font-style:normal;font-weight:normal;line-height:125%;fill:#5b8bdb;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Bitstream Vera Sans"
+       x="-595.21112"
+       y="888.70453"
+       id="text3331"
+       sodipodi:linespacing="125%"
+       transform="scale(1.0167455,0.9835303)"><tspan
+         sodipodi:role="line"
+         id="tspan3333"
+         x="-595.21112"
+         y="888.70453"
+         style="font-size:44.53138351px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#5b8bdb;fill-opacity:1;font-family:Century Gothic;-inkscape-font-specification:Century Gothic">LATEST NEWS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:102.39604187px;font-style:normal;font-weight:normal;line-height:125%;fill:#5b8bdb;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Bitstream Vera Sans"
+       x="-597.75598"
+       y="1116.696"
+       id="text3335"
+       sodipodi:linespacing="125%"
+       transform="scale(1.0167455,0.9835303)"><tspan
+         sodipodi:role="line"
+         id="tspan3337"
+         x="-597.75598"
+         y="1116.696"
+         style="font-size:44.53138351px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#5b8bdb;fill-opacity:1;font-family:Century Gothic;-inkscape-font-specification:Century Gothic">MEDIA</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Tahoma;-inkscape-font-specification:Tahoma"
+       x="-437.11655"
+       y="1128.9391"
+       id="text3339"
+       sodipodi:linespacing="125%"
+       transform="scale(1.2745902,0.7845659)"><tspan
+         sodipodi:role="line"
+         id="tspan3341"
+         x="-437.11655"
+         y="1128.9391" /><tspan
+         sodipodi:role="line"
+         x="-437.11655"
+         y="1158.9391"
+         id="tspan3343"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Tahoma;-inkscape-font-specification:Tahoma">News Item 1 9/01/10</tspan><tspan
+         sodipodi:role="line"
+         x="-437.11655"
+         y="1188.9391"
+         id="tspan3345"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Tahoma;-inkscape-font-specification:Tahoma" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Tahoma;-inkscape-font-specification:Tahoma"
+       x="-437.11655"
+       y="1179.2891"
+       id="text3347"
+       sodipodi:linespacing="125%"
+       transform="scale(1.2745902,0.7845659)"><tspan
+         sodipodi:role="line"
+         id="tspan3349"
+         x="-437.11655"
+         y="1179.2891" /><tspan
+         sodipodi:role="line"
+         x="-437.11655"
+         y="1209.2891"
+         id="tspan3351"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Tahoma;-inkscape-font-specification:Tahoma">News Item 1 8/21/10</tspan><tspan
+         sodipodi:role="line"
+         x="-437.11655"
+         y="1239.2891"
+         id="tspan3353"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Tahoma;-inkscape-font-specification:Tahoma" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Tahoma;-inkscape-font-specification:Tahoma"
+       x="-437.11655"
+       y="1229.6389"
+       id="text3355"
+       sodipodi:linespacing="125%"
+       transform="scale(1.2745902,0.7845659)"><tspan
+         sodipodi:role="line"
+         id="tspan3357"
+         x="-437.11655"
+         y="1229.6389" /><tspan
+         sodipodi:role="line"
+         x="-437.11655"
+         y="1259.6389"
+         id="tspan3359"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Tahoma;-inkscape-font-specification:Tahoma">News Item 1 8/14/10</tspan><tspan
+         sodipodi:role="line"
+         x="-437.11655"
+         y="1289.6389"
+         id="tspan3361"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Tahoma;-inkscape-font-specification:Tahoma" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Tahoma;-inkscape-font-specification:Tahoma"
+       x="-437.11655"
+       y="1281.3131"
+       id="text3363"
+       sodipodi:linespacing="125%"
+       transform="scale(1.2745902,0.7845659)"><tspan
+         sodipodi:role="line"
+         id="tspan3365"
+         x="-437.11655"
+         y="1281.3131" /><tspan
+         sodipodi:role="line"
+         x="-437.11655"
+         y="1311.3131"
+         id="tspan3367"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Tahoma;-inkscape-font-specification:Tahoma">More News...</tspan><tspan
+         sodipodi:role="line"
+         x="-437.11655"
+         y="1341.3131"
+         id="tspan3369"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Tahoma;-inkscape-font-specification:Tahoma" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Tahoma;-inkscape-font-specification:Tahoma"
+       x="-437.11655"
+       y="1428.9856"
+       id="text3371"
+       sodipodi:linespacing="125%"
+       transform="scale(1.2745902,0.7845659)"><tspan
+         sodipodi:role="line"
+         id="tspan3373"
+         x="-437.11655"
+         y="1428.9856" /><tspan
+         sodipodi:role="line"
+         x="-437.11655"
+         y="1458.9856"
+         id="tspan3375"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Tahoma;-inkscape-font-specification:Tahoma">Video 3 9/01/10</tspan><tspan
+         sodipodi:role="line"
+         x="-437.11655"
+         y="1488.9856"
+         id="tspan3377"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Tahoma;-inkscape-font-specification:Tahoma" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Tahoma;-inkscape-font-specification:Tahoma"
+       x="-437.11655"
+       y="1479.3356"
+       id="text3379"
+       sodipodi:linespacing="125%"
+       transform="scale(1.2745902,0.7845659)"><tspan
+         sodipodi:role="line"
+         id="tspan3381"
+         x="-437.11655"
+         y="1479.3356" /><tspan
+         sodipodi:role="line"
+         x="-437.11655"
+         y="1509.3356"
+         id="tspan3383"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Tahoma;-inkscape-font-specification:Tahoma">Video 2 8/21/10</tspan><tspan
+         sodipodi:role="line"
+         x="-437.11655"
+         y="1539.3356"
+         id="tspan3385"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Tahoma;-inkscape-font-specification:Tahoma" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Tahoma;-inkscape-font-specification:Tahoma"
+       x="-437.11655"
+       y="1529.6854"
+       id="text3387"
+       sodipodi:linespacing="125%"
+       transform="scale(1.2745902,0.7845659)"><tspan
+         sodipodi:role="line"
+         id="tspan3389"
+         x="-437.11655"
+         y="1529.6854" /><tspan
+         sodipodi:role="line"
+         x="-437.11655"
+         y="1559.6854"
+         id="tspan3391"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Tahoma;-inkscape-font-specification:Tahoma">Blog 1 8/14/10</tspan><tspan
+         sodipodi:role="line"
+         x="-437.11655"
+         y="1589.6854"
+         id="tspan3393"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Tahoma;-inkscape-font-specification:Tahoma" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Tahoma;-inkscape-font-specification:Tahoma"
+       x="-437.11655"
+       y="1581.3596"
+       id="text3395"
+       sodipodi:linespacing="125%"
+       transform="scale(1.2745902,0.7845659)"><tspan
+         sodipodi:role="line"
+         id="tspan3397"
+         x="-437.11655"
+         y="1581.3596" /><tspan
+         sodipodi:role="line"
+         x="-437.11655"
+         y="1611.3596"
+         id="tspan3399"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Tahoma;-inkscape-font-specification:Tahoma">More Media...</tspan><tspan
+         sodipodi:role="line"
+         x="-437.11655"
+         y="1641.3596"
+         id="tspan3401"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Tahoma;-inkscape-font-specification:Tahoma" /></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="top"
+     transform="translate(334.78571,259.56638)"
+     sodipodi:insensitive="true" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="logo"
+     transform="translate(334.78571,259.56638)"
+     sodipodi:insensitive="true" />
+  <text
+     xml:space="preserve"
+     style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#f5fafa;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Tahoma;-inkscape-font-specification:Tahoma"
+     x="190.43387"
+     y="893.5802"
+     id="text3694"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan3696"
+       x="190.43387"
+       y="893.5802">NEWS AND MEDIA</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#f5fafa;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Tahoma;-inkscape-font-specification:Tahoma"
+     x="650.68323"
+     y="895.66302"
+     id="text3698"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan3700"
+       x="650.68323"
+       y="895.66302">HOURS</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#f5fafa;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Tahoma;-inkscape-font-specification:Tahoma"
+     x="980.37323"
+     y="895.66302"
+     id="text3702"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan3704"
+       x="980.37323"
+       y="895.66302">CONTACT </tspan></text>
+  <image
+     style="display:inline"
+     y="670.64282"
+     x="-389.14285"
+     id="image3887"
+     height="134"
+     width="561"
+     sodipodi:absref="C:\Users\htg\Documents\Expression\Blend 3\Projects\BalanceGB\text.png"
+     xlink:href="C:\Users\htg\Documents\Expression\Blend 3\Projects\BalanceGB\text.png" />
+  <flowRoot
+     xml:space="preserve"
+     id="flowRoot3531"
+     style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#303030;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Tahoma;-inkscape-font-specification:Tahoma"
+     transform="translate(-183.65388,293.993)"><flowRegion
+       id="flowRegion3533"><rect
+         id="rect3535"
+         width="1478.8633"
+         height="1220.2643"
+         x="351.53308"
+         y="1150.2299"
+         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#303030;fill-opacity:1;font-family:Tahoma;-inkscape-font-specification:Tahoma" /></flowRegion><flowPara
+       id="flowPara3537">Life is all about balance. Work and play. Business and family. Rest and exercise. Not too much and not too little. It's especially true with your body. At Balance Chiropractic of Green Bay our goal is to help you achieve balance of your spine and nervous system. This symmetry helps your body communicate, function and move at its optimum.</flowPara><flowPara
+       id="flowPara3539" /><flowPara
+       id="flowPara3541">Dr. Andrew Kiefert, CEO of Balance Chiropractic, believes that every patient should be treated as an individual and cared for like they are a part of his family. Care is specialized to fit each patient with careful consideration in helping you meet your unique health care goals. Dr. Andy cares for patients of all ages and has certification in caring for pregnant women.</flowPara><flowPara
+       id="flowPara3543" /><flowPara
+       id="flowPara3545">Balance Chiropractic is located within The CLINIC at Fitnessology. Here, personalized Chiropractic is combined with world class personal training, neuromuscular therapy and massage therapy. We expect and achieve the highest results.</flowPara></flowRoot></svg>
